@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400&display=swap');
+body {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+}
+
+/* Search Area */
+
+.input-group {
+    max-width: 650px;
+}
+
+/* Card */
+.card-img-top {
+    width: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card {
+    padding: 0.5rem;
+    background-color: rgb(252, 248, 240);
+}
